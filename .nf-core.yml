@@ -34,8 +34,8 @@ lint:
 template:
   org: xiaoli-dong
   name: illuseqsweep
-  description: 'Illumina sequencing data quality control and host removing pipeline,
-    which was implemented using Nextflow '
+  description: "Illumina sequencing data quality control and host removing pipeline,
+    which was implemented using Nextflow "
   author: Xiaoli Dong
   version: 1.0.0dev
   force: true
